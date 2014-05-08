@@ -1,0 +1,1 @@
+Using code from ConsoleD project at https://github.com/robik/ConsoleD/ licensed under Boost licence terms.
